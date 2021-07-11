@@ -1,3 +1,4 @@
 {
     "python.pythonPath": "C:/Anaconda3/envs/vscode/python.exe",
+    "jupyter.jupyterServerType": "local",
 }
